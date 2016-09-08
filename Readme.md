@@ -190,13 +190,13 @@ MIT
 
 [npm-img]: https://img.shields.io/npm/v/gulp-include-inline.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/gulp-include-inline
-[travis-img]: https://img.shields.io/travis/coderhaoxin/gulp-include-inline.svg?style=flat-square
-[travis-url]: https://travis-ci.org/coderhaoxin/gulp-include-inline
-[coveralls-img]: https://img.shields.io/coveralls/coderhaoxin/gulp-include-inline.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/coderhaoxin/gulp-include-inline?branch=master
+[travis-img]: https://img.shields.io/travis/dlutwuwei/gulp-include-inline.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dlutwuwei/gulp-include-inline
+[coveralls-img]: https://img.shields.io/coveralls/dlutwuwei/gulp-include-inline.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/dlutwuwei/gulp-include-inline?branch=master
 [license-img]: http://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [license-url]: http://opensource.org/licenses/MIT
-[david-img]: https://img.shields.io/david/coderhaoxin/gulp-include-inline.svg?style=flat-square
-[david-url]: https://david-dm.org/coderhaoxin/gulp-include-inline
+[david-img]: https://img.shields.io/david/dlutwuwei/gulp-include-inline.svg?style=flat-square
+[david-url]: https://david-dm.org/dlutwuwei/gulp-include-inline
 [gitter-img]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/coderhaoxin/gulp-include-inline?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[gitter-url]: https://gitter.im/dlutwuwei/gulp-include-inline?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
