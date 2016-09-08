@@ -5,12 +5,12 @@
 [![Dependency status][david-img]][david-url]
 [![Gitter][gitter-img]][gitter-url]
 
-### gulp-file-include
+### gulp-include-inline
 a plugin of gulp for file include
 
 ### install
 ```bash
-npm install gulp-file-include
+npm install gulp-include-inline
 ```
 
 ### options
@@ -85,7 +85,7 @@ var.html
 
 gulpfile.js
 ```js
-var fileinclude = require('gulp-file-include'),
+var fileinclude = require('gulp-include-inline'),
   gulp = require('gulp');
 
 gulp.task('fileinclude', function() {
@@ -134,7 +134,7 @@ view
 ```
 
 ```js
-var fileinclude = require('gulp-file-include'),
+var fileinclude = require('gulp-include-inline'),
   markdown = require('markdown'),
   gulp = require('gulp');
 
@@ -188,15 +188,15 @@ fileinclude({
 ### License
 MIT
 
-[npm-img]: https://img.shields.io/npm/v/gulp-file-include.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/gulp-file-include
-[travis-img]: https://img.shields.io/travis/coderhaoxin/gulp-file-include.svg?style=flat-square
-[travis-url]: https://travis-ci.org/coderhaoxin/gulp-file-include
-[coveralls-img]: https://img.shields.io/coveralls/coderhaoxin/gulp-file-include.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/coderhaoxin/gulp-file-include?branch=master
+[npm-img]: https://img.shields.io/npm/v/gulp-include-inline.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/gulp-include-inline
+[travis-img]: https://img.shields.io/travis/coderhaoxin/gulp-include-inline.svg?style=flat-square
+[travis-url]: https://travis-ci.org/coderhaoxin/gulp-include-inline
+[coveralls-img]: https://img.shields.io/coveralls/coderhaoxin/gulp-include-inline.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/coderhaoxin/gulp-include-inline?branch=master
 [license-img]: http://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [license-url]: http://opensource.org/licenses/MIT
-[david-img]: https://img.shields.io/david/coderhaoxin/gulp-file-include.svg?style=flat-square
-[david-url]: https://david-dm.org/coderhaoxin/gulp-file-include
+[david-img]: https://img.shields.io/david/coderhaoxin/gulp-include-inline.svg?style=flat-square
+[david-url]: https://david-dm.org/coderhaoxin/gulp-include-inline
 [gitter-img]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/coderhaoxin/gulp-file-include?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[gitter-url]: https://gitter.im/coderhaoxin/gulp-include-inline?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge

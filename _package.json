@@ -1,6 +1,6 @@
 {
-  "name": "gulp-include-inline",
-  "version": "0.1.0",
+  "name": "gulp-file-include",
+  "version": "0.14.0",
   "description": "a gulp plugin for file include",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "test-travis": "istanbul cover node_modules/.bin/_mocha --report lcovonly -- -R dot -t 200 test/*.js",
     "jscs": "jscs lib && jscs test"
   },
-  "repository": "dlutwuwei/gulp-include-inline",
+  "repository": "coderhaoxin/gulp-file-include",
   "keywords": [
     "gulpplugin",
     "file",
@@ -21,9 +21,9 @@
   "files": [
     "lib"
   ],
-  "author": "dlutwuwei",
+  "author": "haoxin",
   "contributors": [
-    "dlutwuwei <dlutwuwei@qq.com>"
+    "Bogdan Chadkin <trysound@yandex.ru>"
   ],
   "license": "MIT",
   "devDependencies": {
